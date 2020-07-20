@@ -1,2 +1,2 @@
-# A-Path-Finding-Algorithm
+# Path-Finding-Algorithm
 A* Path Finding Algorithm done in Python.
