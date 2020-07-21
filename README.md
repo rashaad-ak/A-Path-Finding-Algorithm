@@ -1,9 +1,13 @@
 # Path-Finding-Algorithm
 A* Path Finding Algorithm done in Python.
 
-Instructions:
+Instructions to install pygame:
 
-Install pygame: "pip install pygame"
+Install pygame on windows : "pip install pygame"
+
+Install pygame on macOS : "pip3 install pygame"
+
+Instructions to use the application:
 
 Right click mouse for starting point
 
