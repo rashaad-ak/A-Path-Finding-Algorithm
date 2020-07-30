@@ -13,11 +13,15 @@ starts with A and includes all possible version number or A*.
 
 
 
+
+
 Instructions to install pygame:
 
 Install pygame on windows : "pip install pygame"
 
 Install pygame on macOS : "pip3 install pygame"
+
+
 
 
 
